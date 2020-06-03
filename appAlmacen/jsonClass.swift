@@ -1,6 +1,6 @@
 //
 //  jsonClass.swift
-//  AppAgenda
+//  appAlmacen
 //
 //  Created by clau93 on 5/30/20.
 //  Copyright © 2020 clau93. All rights reserved.
