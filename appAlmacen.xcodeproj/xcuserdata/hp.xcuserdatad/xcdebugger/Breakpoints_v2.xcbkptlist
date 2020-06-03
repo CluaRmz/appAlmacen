@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/ViewControllerMarca.swift"
+            timestampString = "612793166.8894449"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "112"
+            endingLineNumber = "112"
+            landmarkName = "btnTruper(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/TableViewController.swift"
+            timestampString = "612777303.626002"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/TableViewController.swift"
+            timestampString = "612777303.626065"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "TableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appAlmacen.TableViewController.Almacenes.getter : Swift.Array&lt;appAlmacen.Almacen&gt;"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacen/appAlmacen/TableViewController.swift"
+                  timestampString = "612641482.201215"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "114">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appAlmacen.TableViewController.Almacenes.setter : Swift.Array&lt;appAlmacen.Almacen&gt;"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacen/appAlmacen/TableViewController.swift"
+                  timestampString = "612641482.204464"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appAlmacen.TableViewController.init(style: __C.UITableViewStyle) -&gt; appAlmacen.TableViewController"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacen/appAlmacen/TableViewController.swift"
+                  timestampString = "612641482.2078429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "146">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appAlmacen.TableViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; appAlmacen.TableViewController"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacen/appAlmacen/TableViewController.swift"
+                  timestampString = "612641482.21128"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "153">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appAlmacen.TableViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;appAlmacen.TableViewController&gt;"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacen/appAlmacen/TableViewController.swift"
+                  timestampString = "612641482.2151999"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "112">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/ViewControllerMarca.swift"
+            timestampString = "612793166.8899831"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "160"
+            endingLineNumber = "160">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/ViewControllerMarca.swift"
+            timestampString = "612793166.890258"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "btnBosch(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/ViewControllerMarca.swift"
+            timestampString = "612793166.890558"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "40"
+            endingLineNumber = "40"
+            landmarkName = "btnBosch(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in appAlmacen.ViewControllerMarca.btnBosch(__C.UIButton) -&gt; ()"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacenWS/appAlmacen/ViewControllerMarca.swift"
+                  timestampString = "612775136.017071"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "648">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in appAlmacen.ViewControllerMarca.btnBosch(__C.UIButton) -&gt; ()"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacenWS/appAlmacen/ViewControllerMarca.swift"
+                  timestampString = "612775136.020389"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "40"
+                  endingLineNumber = "40"
+                  offsetFromSymbolStart = "6224">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "appAlmacen/ViewControllerMarca.swift"
+            timestampString = "612793166.8908499"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "btnBosch(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "appAlmacen.ViewControllerMarca.btnBosch(__C.UIButton) -&gt; ()"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacenWS/appAlmacen/ViewControllerMarca.swift"
+                  timestampString = "612777286.016301"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "497">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__C.NSArray&gt;) -&gt; () in appAlmacen.ViewControllerMarca.btnBosch(__C.UIButton) -&gt; ()"
+                  moduleName = "appAlmacen"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/hp/Desktop/2020/swift/appAlmacenWS/appAlmacen/ViewControllerMarca.swift"
+                  timestampString = "612777286.0187761"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "41">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

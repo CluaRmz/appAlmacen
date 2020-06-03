@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  appAlmacen
 //
-//  Created by HP on 5/29/20.
-//  Copyright © 2020 HP. All rights reserved.
+// Created by clau93 on 5/30/20.
+//  Copyright © 2020 clau93. All rights reserved.
 //
 
 import UIKit
